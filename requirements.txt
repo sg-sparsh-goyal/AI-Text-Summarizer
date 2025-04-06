@@ -1,0 +1,6 @@
+gradio
+transformers
+torch
+newspaper3k
+PyMuPDF
+bert-extractive-summarizer
